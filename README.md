@@ -27,7 +27,7 @@ Before running the game, make sure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/flappy-bird.git
+   git clone https://github.com/nachiketgalande1609/FlappyBird.git
 
 2. **Create Virtual Environment:**
    - Open a terminal or command prompt.
