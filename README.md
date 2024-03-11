@@ -21,7 +21,6 @@ This project is a recreation of the classic Flappy Bird game using the Pygame li
 Before running the game, make sure you have the following installed:
 
 - Python
-- Pygame library
 
 ## Installation
 
